@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elivelton Bouteille.
 - 👀 I’m interested in learn new things.
 - 🌱 I’m currently learning C.
-- 📫 To contact me, just send an email to elivertonbouteille@gmail.com
+- 📫 To contact me, just send an email to eliveltoncontact@gmail.com
 
 <!---
 xxvelho/xxvelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
