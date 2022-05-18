@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Elivelton Bouteille.
-- 👀 I’m interested in learn new things.
 - 🌱 I’m currently learning C.
 - 📫 To contact me, just send an email to eliveltoncontact@gmail.com
 
