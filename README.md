@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"> Hello World!! :brazil:</h1><br/>
 
-Estudo Bacharelado em Ciência da Computação na Universidade Federal do Maranhão, tenho 19 anos e
-estou sempre atrás do progresso, buscando aprender cada vez mais!!
+- Eu sou o Elivelton Bouteille, estudo Bacharelado em Ciência da Computação, na Universidade Federal do Maranhão, tenho 19 anos.
+Tô atrás do meu progresso e pra mim só isso que importa!!
 
 ### Social Network
 
