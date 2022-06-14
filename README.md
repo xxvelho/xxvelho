@@ -42,8 +42,8 @@ Tô atrás do meu progresso e pra mim só isso que importa!!
 
 <p>
 <img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
-<img src="https://img.shields.io/badge/OS-Windows-organge?logo=Windows">
 <img src="https://img.shields.io/badge/OS-Linux-organge?logo=Linux">
+<img src="https://img.shields.io/badge/OS-Windows-organge?logo=Windows">
 </p>
 
 ### Languages
