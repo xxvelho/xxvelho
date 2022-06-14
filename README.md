@@ -55,11 +55,9 @@ Tô atrás do meu progresso e pra mim só isso que importa!!
 </div>
 <br/>
 
-
 <div align="right">
 
-  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xxvelho.visitor-badge)
+:eyes:
   
 </div>
-
