@@ -54,3 +54,12 @@ Tô atrás do meu progresso e pra mim só isso que importa!!
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </div>
 <br/>
+
+
+<div align="right">
+
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xxvelho.visitor-badge)
+  
+</div>
+
