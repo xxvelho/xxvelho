@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xxvelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xxvelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center">
   <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxvelho&layout=compact&langs_count=7&theme=dracula"/>
@@ -56,7 +56,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align="right">
 
+<!---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xxvelho.visitor-badge)
 :eyes:
-  
+--->
+
 </div>
