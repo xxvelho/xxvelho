@@ -18,31 +18,21 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Hello World!! :brazil:</h1><br/>
 <!---
 - Eu sou Elivelton Bouteille, estudo Bacharelado em Ciência da Computação, na Universidade Federal do Maranhão, tenho 19 anos e me identifico com o Back-End.
---->
 
-<br/>
+
 <div align="center">
-<!---
-
 ### Social Network
---->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xxvelho/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliveltonbouteille/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xxvelho/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliveltoncontact@gmail.com)
-
 </div>
+--->
 
-<br/>
-
-<br/>
-
-<div align="center">
+<div align = "center">
   <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxvelho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<br/>
 
 <!---
 ### Tools and Environments
@@ -52,8 +42,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/OS-Linux-organge?logo=Linux">
 <img src="https://img.shields.io/badge/OS-Windows-organge?logo=Windows">
 </p>
---->
-<!---
+
 ### Languages
 <div style="display: inline_block">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -61,13 +50,10 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </div>
-<br/>
---->
-<div align="right">
 
-<!---
+
+<div>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xxvelho.visitor-badge)
 :eyes:
---->
-
 </div>
+--->
